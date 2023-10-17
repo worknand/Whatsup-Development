@@ -4,6 +4,7 @@
       <Language ID="en-us" />
       <ExcludeApp ID="Lync" />
     </Product>
+    //Comment line added
     <Product ID="LanguagePack">
       <Language ID="en-us" />
     </Product>

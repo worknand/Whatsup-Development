@@ -9,7 +9,8 @@
       <Language ID="en-us" />
     </Product>
      <Product ID="videoaudiopack">
-      <Language ID="video feature" />
+       <Product ID="Documents">
+      <Language ID=" video feature" />
     </Product>
   </Add>
   <Property Name="SharedComputerLicensing" Value="0" />
